@@ -1,0 +1,25 @@
+{
+  "notifications": {
+    "nextKey": "nextKey",
+    "items": [
+      {
+        "notificationId": 1,
+        "text": "json-server1",
+        "imageUrl": "typicode1",
+        "createdAt": "2019-08-14T04:04:30+09:00"
+      },
+      {
+        "notificationId": 2,
+        "text": "json-server2",
+        "imageUrl": "typicode2",
+        "createdAt": "2019-08-14T04:04:30+09:00"
+      },
+      {
+        "notificationId": 3,
+        "text": "json-server3",
+        "imageUrl": "typicode3",
+        "createdAt": "2019-08-14T04:04:30+09:00"
+      }
+    ]
+  }
+}
