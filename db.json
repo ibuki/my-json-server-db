@@ -4,20 +4,34 @@
     "items": [
       {
         "notificationId": 1,
-        "text": "json-server1",
-        "imageUrl": "typicode1",
+        "text": "テスト1さんがあなたの投稿にコメントしました",
+        "imageUrl": "https://i.picsum.photos/id/1/200/200.jpg",
+        "notificationType": "comment",
+        "linkId": 1,
         "createdAt": "2019-08-14T04:04:30+09:00"
       },
       {
         "notificationId": 2,
-        "text": "json-server2",
-        "imageUrl": "typicode2",
+        "text": "テスト1さんがあなたの投稿にいいねしました",
+        "imageUrl": "https://i.picsum.photos/id/2/200/200.jpg",
+        "notificationType": "like",
+        "linkId": 2,
         "createdAt": "2019-08-14T04:04:30+09:00"
       },
       {
         "notificationId": 3,
-        "text": "json-server3",
-        "imageUrl": "typicode3",
+        "text": "複数行に渡るお知らせのテストです。そろそろ改行が入る予定です。改行は入りましたか？そろそろ次の改行も入ってほしいです。",
+        "imageUrl": "https://i.picsum.photos/id/3/200/200.jpg",
+        "notificationType": "comment",
+        "linkId": 3,
+        "createdAt": "2019-08-14T04:04:30+09:00"
+      },
+      {
+        "notificationId": 4,
+        "text": "いろいろなお知らせのテスト💯です。\n←これは改行コード🤖",
+        "imageUrl": "https://i.picsum.photos/id/4/200/200.jpg",
+        "notificationType": "like",
+        "linkId": 4,
         "createdAt": "2019-08-14T04:04:30+09:00"
       }
     ]
